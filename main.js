@@ -28,8 +28,8 @@ function updateClock() {
   
   var month=["January","February","March","April","May","June","July","August","September","October", "November","December"];
   
-  var week=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
-  
+  var week=["SUN","MON","TUE","WED","THU","FRI","SAT"];
+
   
   var ids=["dayName","month","dayNum","year","hour","minute","second","period"];
   
